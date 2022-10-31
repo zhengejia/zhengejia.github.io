@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]]()
-
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/zhengejia/zhengejia.github.io/blob/master/files/Zhenge_Jia_CV-2022-Nov.pdf)
