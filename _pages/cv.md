@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/zhengejia/zhengejia.github.io/blob/master/files/Zhenge_Jia_CV-2022-Nov.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://zhengejia.github.io/files/Zhenge_Jia_CV-2022-Nov.pdf)
