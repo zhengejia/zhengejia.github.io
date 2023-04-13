@@ -14,6 +14,7 @@ His research outcomes:
 
 
 # News
+* 2023/04 &nbsp; &nbsp;    "Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators" is accepted by Nature Machine Intelligence.
 * 2022/11 &nbsp; &nbsp;    [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) has been successfully concluded! Congratulation to all winning teams! Results and slides can be accessed [here](https://tinymlcontest.github.io/TinyML-Design-Contest/Winners.html).
 * 2022/10 &nbsp; &nbsp;    "Low Power Object Detection Challenge on UAV" is accepted by Nature Machine Intelligence.
 * 2022/08 &nbsp; &nbsp;    Join [Sustainable Computing Laboratory (SCL)](https://www3.nd.edu/~scl/index.html) at University of Notre Dame.
@@ -27,6 +28,7 @@ His research outcomes:
 * Organize [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
 # Journal Review Services
+* Nature Scientific Reports
 * Journal of Emerging Technologies in Computing Systems (JETC)
 * IEEE Transactions on Circuits and Systems II (TCAS)
 * IEEE Embedded Systems Letters (ESL)

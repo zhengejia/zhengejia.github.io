@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 ## Journal 
+<b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators]()</b> <br> 
+<b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
+<i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
+<span>[[pdf]()]</span>
+
+
 <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
 <b> Zhenge Jia</b>, Xiaowei Xu, Jingtong Hu, Yiyu Shi <br />
 <i>Nature Machine Intelligence</i>, 2022 (Impact Factor: 25.9). <br />
