@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journal 
+<b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare]()</b> <br> 
+<b> Zhenge Jia</b>, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi <br />
+<i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
+<span>[[pdf]()]</span>
+
 <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators]()</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
 <i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />

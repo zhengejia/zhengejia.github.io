@@ -14,6 +14,7 @@ His research outcomes:
 
 
 # News
+* 2023/05 &nbsp; &nbsp;    "The Importance of Resource Awareness in Artificial Intelligence for Healthcare" is accepted by Nature Machine Intelligence.
 * 2023/04 &nbsp; &nbsp;    "Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators" is accepted by Nature Machine Intelligence.
 * 2022/11 &nbsp; &nbsp;    [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) has been successfully concluded! Congratulation to all winning teams! Results and slides can be accessed [here](https://tinymlcontest.github.io/TinyML-Design-Contest/Winners.html).
 * 2022/10 &nbsp; &nbsp;    "Low Power Object Detection Challenge on UAV" is accepted by Nature Machine Intelligence.
@@ -34,6 +35,9 @@ His research outcomes:
 * IEEE Embedded Systems Letters (ESL)
 * IEEE Access
 * ACM Transactions on Cyber-Physical Systems (TCPS)
+
+# Conference Reviewer
+* International Conference on Computer-Aided Design (ICCAD'23)
 
 # Awards
 * IJCAI Student Grant, 2021
