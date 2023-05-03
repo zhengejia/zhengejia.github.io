@@ -36,7 +36,7 @@ His research outcomes:
 * IEEE Access
 * ACM Transactions on Cyber-Physical Systems (TCPS)
 
-# Conference Reviewer
+# TPC Member
 * International Conference on Computer-Aided Design (ICCAD'23)
 
 # Awards

@@ -35,10 +35,7 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 
 
-
 ## Conference
-
-
 <b>[On-Device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection](https://dl.acm.org/doi/10.1145/3476987)</b> <br> 
 <b> Zhenge Jia</b>, Yiyu Shi, Samir Saba, Jingtong Hu <br />
 <i>Proc. International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES). </i> <br />
@@ -64,9 +61,10 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 <span>[[pdf](https://dl.acm.org/doi/abs/10.1145/3400302.3415774?casa_token=tqZyGxa0C34AAAAA:gulGfir-bcDA-Y5VLTB6Dofwk20T4rGazQjxrxcH10hyNhrpHaW5vocT9eviqRBDMvYE_553wDGq7ao)]</span>
 
 
-<b>ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators</b> <br> 
+<b>[ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators](https://ieeexplore.ieee.org/document/9983635)</b> <br> 
 Qing Lu, <b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
 <i>The IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2022. <br />
+<span>[[pdf](https://ieeexplore.ieee.org/document/9983635)]</span>
 
 [//]: # (<span>[[pdf]&#40;&#41;]</span>)
 
@@ -87,3 +85,10 @@ Zhepeng Wang, Yawen Wu, <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 Yawen Wu, Zhepeng Wang, <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 <i>The 57th IEEE/ACM Design Automation Conference (DAC)</i>, 2020 (Acceptance rate: 23.2%). <br />
 <span>[[pdf](https://arxiv.org/pdf/2004.11293.pdf)]</span>
+
+
+## Oral Presentations
+<b>[Demo: Addressing Inter-Intra Patient Variability via Personalized Meta-Federated Learning in IoT-Enabled Health Monitoring]()</b> <br>
+<b> Zhenge Jia</b>, Yiyu Shi <br />
+<i>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2023. <br />
+<span>[[pdf]()]</span>
