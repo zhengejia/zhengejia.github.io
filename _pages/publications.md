@@ -10,10 +10,10 @@ author_profile: true
 <i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
 <span>[[pdf]()]</span>
 
-<b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators]()</b> <br> 
+<b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
 <i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
-<span>[[pdf]()]</span>
+<span>[[pdf](https://www.nature.com/articles/s42256-023-00659-9)]</span>
 
 
 <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
