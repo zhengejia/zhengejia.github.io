@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journal 
+<b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
+<b> Zhenge Jia</b>, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi <br />
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</i>, 2023 (Impact Factor: 2.8). <br />
+<span>[[pdf](https://arxiv.org/pdf/2305.05105.pdf)]</span>
+
 <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
 <b> Zhenge Jia</b>, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi <br />
 <i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
@@ -36,6 +41,11 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 
 ## Conference
+<b>[ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators](https://ieeexplore.ieee.org/document/9983635)</b> <br> 
+Qing Lu, <b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
+<i>The IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2022. <br />
+<span>[[pdf](https://ieeexplore.ieee.org/document/9983635)]</span>
+
 <b>[On-Device Prior Knowledge Incorporated Learning for Personalized Atrial Fibrillation Detection](https://dl.acm.org/doi/10.1145/3476987)</b> <br> 
 <b> Zhenge Jia</b>, Yiyu Shi, Samir Saba, Jingtong Hu <br />
 <i>Proc. International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES). </i> <br />
@@ -61,10 +71,7 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 <span>[[pdf](https://dl.acm.org/doi/abs/10.1145/3400302.3415774?casa_token=tqZyGxa0C34AAAAA:gulGfir-bcDA-Y5VLTB6Dofwk20T4rGazQjxrxcH10hyNhrpHaW5vocT9eviqRBDMvYE_553wDGq7ao)]</span>
 
 
-<b>[ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators](https://ieeexplore.ieee.org/document/9983635)</b> <br> 
-Qing Lu, <b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
-<i>The IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2022. <br />
-<span>[[pdf](https://ieeexplore.ieee.org/document/9983635)]</span>
+
 
 [//]: # (<span>[[pdf]&#40;&#41;]</span>)
 
@@ -88,7 +95,7 @@ Yawen Wu, Zhepeng Wang, <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 
 
 ## Oral Presentations
-<b>[Demo: Addressing Inter-Intra Patient Variability via Personalized Meta-Federated Learning in IoT-Enabled Health Monitoring]()</b> <br>
+<b>[Demo: Addressing Inter-Intra Patient Variability via Personalized Meta-Federated Learning in IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10183740/)</b> <br>
 <b> Zhenge Jia</b>, Yiyu Shi <br />
 <i>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2023. <br />
-<span>[[pdf]()]</span>
+<span>[[pdf](https://ieeexplore.ieee.org/document/10183740/)]</span>
