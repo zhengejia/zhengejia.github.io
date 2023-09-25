@@ -14,6 +14,7 @@ His research outcomes:
 
 
 # News
+* 2023/09 &nbsp; &nbsp;    2nd Place at [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK'23](https://esweek.org/tiny-and-fair-ml-design/). 
 * 2023/08 &nbsp; &nbsp;    "TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection" is accepted by IEEE TCAD.
 * 2023/05 &nbsp; &nbsp;    "The Importance of Resource Awareness in Artificial Intelligence for Healthcare" is accepted by Nature Machine Intelligence.
 * 2023/04 &nbsp; &nbsp;    "Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators" is accepted by Nature Machine Intelligence.
@@ -27,8 +28,8 @@ His research outcomes:
 -->
 
 # Activities
-* Co-Organize [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
-* Organize [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
+* Co-Chair of [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
+* Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
 # Journal Review Services
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
@@ -44,6 +45,7 @@ His research outcomes:
 * International Conference on Computer-Aided Design (ICCAD'23)
 
 # Awards
+* 2nd Place in [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK](https://esweek.org/tiny-and-fair-ml-design/), 2023 
 * 2nd Place Award of Ph.D. Forum at DAC, 2023
 * IJCAI Student Grant, 2021
 * Young student fellow award, Design Automation Conference(DAC), 2021, USA 
