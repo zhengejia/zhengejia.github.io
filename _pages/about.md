@@ -14,7 +14,7 @@ His research outcomes:
 
 
 # News
-* 2023/09 &nbsp; &nbsp;    2nd Place at [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK'23](https://esweek.org/tiny-and-fair-ml-design/). 
+* 2023/09 &nbsp; &nbsp;    2nd Place in [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK'23](https://esweek.org/tiny-and-fair-ml-design/). 
 * 2023/08 &nbsp; &nbsp;    "TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection" is accepted by IEEE TCAD.
 * 2023/05 &nbsp; &nbsp;    "The Importance of Resource Awareness in Artificial Intelligence for Healthcare" is accepted by Nature Machine Intelligence.
 * 2023/04 &nbsp; &nbsp;    "Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators" is accepted by Nature Machine Intelligence.
