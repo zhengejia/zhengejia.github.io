@@ -7,35 +7,35 @@ author_profile: true
 ## Journal 
 <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi <br />
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</i>, 2023 (Impact Factor: 2.8). <br />
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023 (Impact Factor: 2.8). <br />
 <span>[[pdf](https://arxiv.org/pdf/2305.05105.pdf)]</span>
 
 <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
 <b> Zhenge Jia</b>, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi <br />
-<i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
+<i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
 <span>[[pdf](https://www.nature.com/articles/s42256-023-00670-0)]</span>
 
 <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
-<i>Nature Machine Intelligence</i>, 2023 (Impact Factor: 25.9). <br />
+<i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
 <span>[[pdf](https://www.nature.com/articles/s42256-023-00659-9)]</span>
 
 
 <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
 <b> Zhenge Jia</b>, Xiaowei Xu, Jingtong Hu, Yiyu Shi <br />
-<i>Nature Machine Intelligence</i>, 2022 (Impact Factor: 25.9). <br />
+<i>Nature Machine Intelligence (NMI)</i>, 2022 (Impact Factor: 25.9). <br />
 <span>[[pdf](https://www.nature.com/articles/s42256-022-00567-4)]</span>
 
 
 <b>[Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach](https://ieeexplore.ieee.org/document/9743335)</b> <br> 
 <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</i>, 2022 (Impact Factor: 2.8). <br />
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022 (Impact Factor: 2.8). <br />
 <span>[[pdf](https://ieeexplore.ieee.org/document/9743335)]</span>
 
 
 <b>[Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning](https://ieeexplore.ieee.org/document/9335978)</b> <br> 
 Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
-<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</i>, 2021 (Impact Factor: 2.8). <br />
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2021 (Impact Factor: 2.8). <br />
 <span>[[pdf](https://ieeexplore.ieee.org/document/9335978)]</span>
 
 
