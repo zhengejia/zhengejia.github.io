@@ -41,6 +41,11 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 
 ## Conference
+<b>[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://arxiv.org/abs/2311.12275)</b> <br> 
+Ruiyang Qin, Jun Xia, <b> Zhenge Jia</b>, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi <br />
+<i>The 61th IEEE/ACM Design Automation Conference (DAC)</i>, 2024. <br />
+<span>[[pdf](https://arxiv.org/pdf/2311.12275.pdf)]</span>
+
 <b>[ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators](https://ieeexplore.ieee.org/document/9983635)</b> <br> 
 Qing Lu, <b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
 <i>The IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2022. <br />
