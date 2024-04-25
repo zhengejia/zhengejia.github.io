@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journal 
+<b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
+<b> Zhenge Jia</b>, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi <br />
+<i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024 (Impact Factor: 2.8). <br />
+<span>[[pdf](https://ieeexplore.ieee.org/document/10499975)]</span>
+
 <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023 (Impact Factor: 2.8). <br />
@@ -45,6 +50,11 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 Ruiyang Qin, Jun Xia, <b> Zhenge Jia</b>, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi <br />
 <i>The 61th IEEE/ACM Design Automation Conference (DAC)</i>, 2024. <br />
 <span>[[pdf](https://arxiv.org/pdf/2311.12275.pdf)]</span>
+
+<b>[Demo: Addressing Inter-Intra Patient Variability via Personalized Meta-Federated Learning in IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10183740/)</b> <br>
+<b> Zhenge Jia</b>, Yiyu Shi <br />
+<i>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2023. <br />
+<span>[[pdf](https://ieeexplore.ieee.org/document/10183740/)]</span>
 
 <b>[ICD-BAS: Detecting Ventricular Arrhythmia using Binary Architecture Search for Implantable Cardioverter Defibrillators](https://ieeexplore.ieee.org/document/9983635)</b> <br> 
 Qing Lu, <b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
@@ -99,8 +109,4 @@ Yawen Wu, Zhepeng Wang, <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 <span>[[pdf](https://arxiv.org/pdf/2004.11293.pdf)]</span>
 
 
-## Oral Presentations
-<b>[Demo: Addressing Inter-Intra Patient Variability via Personalized Meta-Federated Learning in IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10183740/)</b> <br>
-<b> Zhenge Jia</b>, Yiyu Shi <br />
-<i>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</i>, 2023. <br />
-<span>[[pdf](https://ieeexplore.ieee.org/document/10183740/)]</span>
+[//]: # (## Oral Presentations)
