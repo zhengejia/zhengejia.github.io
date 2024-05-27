@@ -46,6 +46,11 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 
 ## Conference
+<b>[A Reconfigurable Bandpass Filter with Ferroelectric Devices for Intracardiac Electrograms Monitoring]()</b> <br> 
+Jianwei Jia, <b> Zhenge Jia</b>, Omkar Phadke, Gihun Choe, Yiyu Shi, Shimeng Yu <br />
+<i>Proc. of IEEE Midwest Symposium on Circuits and Systems (MWSCAS)</i>, 2024. <br />
+<span>[[pdf]()]</span>
+
 <b>[Enabling On-Device Large Language Model Personalization with Self-Supervised Data Selection and Synthesis](https://arxiv.org/abs/2311.12275)</b> <br> 
 Ruiyang Qin, Jun Xia, <b> Zhenge Jia</b>, Meng Jiang, Ahmed Abbasi, Peipei Zhou, Jingtong Hu, Yiyu Shi <br />
 <i>The 61th IEEE/ACM Design Automation Conference (DAC)</i>, 2024. <br />
