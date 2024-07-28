@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 Zhenge Jia is currently a tenure-track professor at School of Computer Science and Technology, Shandong University.
-He was a Postdoctoral Research Associate at University of Notre Dame from 2022 - 2024 (supervisor [Yiyu Shi](https://www3.nd.edu/~scl/index.html)). 
-He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervisor [Jingtong Hu](https://sites.pitt.edu/~jthu/index.html)). 
-He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervisor [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
+He was a Postdoctoral Research Associate at University of Notre Dame from 2022 - 2024 (supervised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html)). 
+He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervised by Prof. [Jingtong Hu](https://sites.pitt.edu/~jthu/index.html)). 
+He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervised by Prof. [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
 His research interests are in on-device learning, TinyML and personalized deep learning.
 His research outcomes:
 * Personalized Deep Learning [[ICCAD'20](https://dl.acm.org/doi/abs/10.1145/3400302.3415774?casa_token=tqZyGxa0C34AAAAA:gulGfir-bcDA-Y5VLTB6Dofwk20T4rGazQjxrxcH10hyNhrpHaW5vocT9eviqRBDMvYE_553wDGq7ao), [IJCAI'21](https://www.ijcai.org/proceedings/2021/0359.pdf), [TCAD'22](https://ieeexplore.ieee.org/document/9743335), [TCAD'24](https://ieeexplore.ieee.org/document/10499975)]
