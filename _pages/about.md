@@ -40,13 +40,27 @@ His research outcomes:
 
 [//]: # (* 2022/07 &nbsp; &nbsp;    Launch [1st IEEE/ACM TinyML Contest]&#40;https://tinymlcontest.github.io/TinyML-Design-Contest/&#41;.)
 
+# Awards
+* 2nd Place in [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK](https://esweek.org/tiny-and-fair-ml-design/), 2023 
+* 2nd Place Award in Ph.D. Forum at DAC, 2023 [[Poster](https://drive.google.com/file/d/117iJwE_jHYDHIGQ5v2BSLEYuU1khPRd0/view?usp=sharing)] [[Abstract](https://drive.google.com/file/d/1D79GJMJfS3gwThoH8d4TxPMr2FrZ193D/view?usp=sharing)]
+* IJCAI Student Grant, 2021
+* Young student fellow award, Design Automation Conference(DAC), 2021, USA 
+* Young student fellow award, Design Automation Conference(DAC), 2020, USA
 
-# Activities
+
+# Professional Service 
+## Contest Organizing 
 * Chair of [1st Intelligent Embedded System Design Contest ](https://iesdcontest.github.io/iesd-2024/) focusing on on-device learning design for Atrial Fibrillation detection. 
 * Co-Chair of [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
 * Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
-# Journal Review Services
+## Program Committee Member
+* International Conference on Computer-Aided Design (ICCAD) 2023, 2024
+* European Conference on Artificial Intelligence (ECAI) 2024
+* Asia and South Pacific Design Automation Conference (ASP-DAC) 2024
+* Asia and South Pacific Design Automation Conference (ASP-DAC) Student Research Forum 2023
+
+## Selected Journal Review
 * IEEE Transactions on Computers (TC)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -58,18 +72,9 @@ His research outcomes:
 * IEEE Access
 * ACM Transactions on Cyber-Physical Systems (TCPS)
 
-# TPC Member
-* International Conference on Computer-Aided Design (ICCAD) 2023, 2024
-* European Conference on Artificial Intelligence (ECAI) 2024
-* Asia and South Pacific Design Automation Conference (ASP-DAC) 2024
-* Asia and South Pacific Design Automation Conference (ASP-DAC) Student Research Forum 2023
 
-# Awards
-* 2nd Place in [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK](https://esweek.org/tiny-and-fair-ml-design/), 2023 
-* 2nd Place Award in Ph.D. Forum at DAC, 2023 [[Poster](https://drive.google.com/file/d/117iJwE_jHYDHIGQ5v2BSLEYuU1khPRd0/view?usp=sharing)] [[Abstract](https://drive.google.com/file/d/1D79GJMJfS3gwThoH8d4TxPMr2FrZ193D/view?usp=sharing)]
-* IJCAI Student Grant, 2021
-* Young student fellow award, Design Automation Conference(DAC), 2021, USA 
-* Young student fellow award, Design Automation Conference(DAC), 2020, USA
+
+
 
 [//]: # (# Teaching &#40;as Teaching Assistant&#41;)
 
