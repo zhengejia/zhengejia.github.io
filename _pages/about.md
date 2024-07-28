@@ -47,20 +47,19 @@ His research outcomes:
 * Young student fellow award, Design Automation Conference(DAC), 2021, USA 
 * Young student fellow award, Design Automation Conference(DAC), 2020, USA
 
-
 # Professional Service 
-## Contest Organizing 
+**Contest Organizing** 
 * Chair of [1st Intelligent Embedded System Design Contest ](https://iesdcontest.github.io/iesd-2024/) focusing on on-device learning design for Atrial Fibrillation detection. 
 * Co-Chair of [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
 * Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
-## Program Committee Member
+**Program Committee Member**
 * International Conference on Computer-Aided Design (ICCAD) 2023, 2024
 * European Conference on Artificial Intelligence (ECAI) 2024
 * Asia and South Pacific Design Automation Conference (ASP-DAC) 2024
 * Asia and South Pacific Design Automation Conference (ASP-DAC) Student Research Forum 2023
 
-## Selected Journal Review
+**Selected Journal Review**
 * IEEE Transactions on Computers (TC)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
