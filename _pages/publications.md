@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal 
 <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
-Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu, <b> Zhenge Jia*</b>, Yiyu Shi* (corresponding author)<br />
+Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu,<b> Zhenge Jia`*`</b>, Yiyu Shi`*` (corresponding author)<br />
 <i> Nature Electronics</i>, 2024 (Impact Factor: 34.3). <br />
 <span>[[pdf](https://www.nature.com/articles/s41928-024-01213-0)]</span>
 
@@ -57,7 +57,7 @@ Tingting Zhang, Mei Cao,<b> Zhenge Jia</b>, Jianbo Lu, Zhaoyan Shen, Dongxiao Yu
 <span>[[pdf]()]</span>
 
 <b>[Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks]()</b> <br> 
-Likai Pei*, Yifan Qin* (equal contribution), Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis,<b> Zhenge Jia</b>, Michael Niemier, Yiyu Shi, X. Sharon Hu, Ningyuan Cao <br />
+Likai Pei, Yifan Qin, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis,<b> Zhenge Jia</b>, Michael Niemier, Yiyu Shi, X. Sharon Hu, Ningyuan Cao <br />
 <i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024. <br />
 <span>[[pdf]()]</span>
 
