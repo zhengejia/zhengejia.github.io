@@ -11,7 +11,7 @@ Zhenge Jia is currently a “Qilu Young Scholar” Professor at School of Comput
 Before joining SDU, he was a Postdoctoral Research Associate at University of Notre Dame from 2022 - 2024 (supervised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html)). 
 He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervised by Prof. [Jingtong Hu](https://sites.pitt.edu/~jthu/index.html)). 
 He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervised by Prof. [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
-His research interests are in on-device learning, TinyML and personalized deep learning.
+His research interests are in embedded AI and personalized learning.
 His research outcomes:
 * Personalized Deep Learning [[ICCAD'20](https://dl.acm.org/doi/abs/10.1145/3400302.3415774?casa_token=tqZyGxa0C34AAAAA:gulGfir-bcDA-Y5VLTB6Dofwk20T4rGazQjxrxcH10hyNhrpHaW5vocT9eviqRBDMvYE_553wDGq7ao), [IJCAI'21](https://www.ijcai.org/proceedings/2021/0359.pdf), [TCAD'22](https://ieeexplore.ieee.org/document/9743335), [TCAD'24](https://ieeexplore.ieee.org/document/10499975)]
 * On-Device Learning [[DAC'21](https://ieeexplore.ieee.org/document/9586123/metrics#metrics), [ESWEEK'21](https://dl.acm.org/doi/10.1145/3476987), [NMI'22](https://www.nature.com/articles/s42256-022-00567-4) , [NMI'23](https://www.nature.com/articles/s42256-023-00670-0),  [DAC'24](https://arxiv.org/abs/2311.12275)].
@@ -69,8 +69,9 @@ His research outcomes:
 * IEEE Transactions on Circuits and Systems I (TCAS-I)
 * IEEE Transactions on Circuits and Systems II (TCAS-II)
 * IEEE Embedded Systems Letters (ESL)
-* IEEE Access
-* ACM Transactions on Cyber-Physical Systems (TCPS)
+
+[//]: # (* IEEE Access)
+[//]: # (* ACM Transactions on Cyber-Physical Systems &#40;TCPS&#41;)
 
 
 
