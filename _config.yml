@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenge Jia"
 title_separator          : "-"
 name                     : &name "Zhenge Jia"
-description              : &description "“Qilu Young Scholar” Professor (齐鲁青年学者), 博士生导师"
+description              : &description "“Qilu Young Scholar” Professor (齐鲁青年学者), Shandong University"
 url                      : https://zhengejia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhengejia/zhengejia.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenge Jia"
   avatar           : "zjia.jpg"
-  bio              : "“Qilu Young Scholar” Professor (齐鲁青年学者), 博士生导师"
+  bio              : "“Qilu Young Scholar” Professor (齐鲁青年学者), Shandong University"
   location         : "Qingdao, Shandong"
   employer         :
   pubmed           :
