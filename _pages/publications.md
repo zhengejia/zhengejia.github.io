@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journal 
+<b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
+Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu, <b> Zhenge Jia*</b>, Yiyu Shi* (corresponding author)<br />
+<i> Nature Electronics</i>, 2024 (Impact Factor: 34.3). <br />
+<span>[[pdf](https://www.nature.com/articles/s41928-024-01213-0)]</span>
+
 <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
 <b> Zhenge Jia</b>, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024 (Impact Factor: 2.8). <br />
@@ -46,6 +51,26 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 
 ## Conference
+<b>[Federation-Paced Learning: Towards Efficient Federated Learning with Synchronized Pace]()</b> <br> 
+Tingting Zhang, Mei Cao,<b> Zhenge Jia</b>, Jianbo Lu, Zhaoyan Shen, Dongxiao Yu, Mengying Zhao <br />
+<i>Proc. of 27th European Conference on Artificial Intelligence (ECAI)</i>, 2024. <br />
+<span>[[pdf]()]</span>
+
+<b>[Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks]()</b> <br> 
+Likai Pei*, Yifan Qin* (equal contribution), Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis,<b> Zhenge Jia</b>, Michael Niemier, Yiyu Shi, X. Sharon Hu, Ningyuan Cao <br />
+<i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024. <br />
+<span>[[pdf]()]</span>
+
+<b>[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures]()</b> <br> 
+Ruiyang Qin, Zheyu Yan, Dewen Zeng,<b> Zhenge Jia</b>, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi <br />
+<i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024. <br />
+<span>[[pdf]()]</span>
+
+<b>[FairQuantize: Achieving Fairness Through Weight Quantization for Dermatological Disease Diagnosis]()</b> <br> 
+Yuanbo Guo,<b> Zhenge Jia</b>, Jingtong Hu, Yiyu Shi <br />
+<i>Proc. of Medical Image Computing and Computer Assisted Intervention (MICCAI)</i>, 2024. <br />
+<span>[[pdf]()]</span>
+
 <b>[A Reconfigurable Bandpass Filter with Ferroelectric Devices for Intracardiac Electrograms Monitoring]()</b> <br> 
 Jianwei Jia, <b> Zhenge Jia</b>, Omkar Phadke, Gihun Choe, Yiyu Shi, Shimeng Yu <br />
 <i>Proc. of IEEE Midwest Symposium on Circuits and Systems (MWSCAS)</i>, 2024. <br />
