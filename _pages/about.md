@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Bio
 Zhenge Jia is currently a “Qilu Young Scholar” (齐鲁青年学者) Professor at School of Computer Science and Technology, Shandong University.
 He was also selected as a Young Expert of Taishan Scholars (泰山学者青年专家) of Shandong Province. 
 Before joining SDU, he was a Postdoctoral Research Associate at University of Notre Dame from 2022 - 2024 (supervised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html)). 
@@ -16,9 +15,7 @@ He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervised b
 He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervised by Prof. [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
 His research interests are in on-device AI and LLM-assisted hardware deisgn.
 
-贾振格，山东大学计算机科学与技术学院教授、博导，山东省泰山学者青年专家，山东大学齐鲁青年学者。主要研究方向为体系结构和嵌入式人工智能，基于以上研究方向，开展面向端侧人工智能的软硬件协同设计，推进国产嵌入式人工智能的生态建设，实现产业级应用落地。目前，研究课题主要集中在三个方面：1）面向端侧人工智能的高效算法和计算框架设计；2）个性化端侧人工智能系统设计；3）面向工业互联网的大模型辅助电子设计自动化。
-
-2022至2024年于圣母大学从事博士后研究，导师为[Yiyu Shi](https://www3.nd.edu/~scl/index.html) 教授，2022年于匹兹堡大学获博士学位，导师为[Jingtong Hu](https://sites.pitt.edu/~jthu/index.html) 教授，2017年于澳大利亚国立大学获学士学位，导师为[Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/) 教授。近五年发表学术论文30余篇，其中一作发表Nature Machine Intelligence（影响因子25.8）3篇，CCF-A类论文6篇，通讯发表Nature Electronics（影响因子34.3）1篇。依托ICCAD（CCF-B类会议）创办[IEEE/ACM 微型机器学习系统设计国际大赛](https://tinymlcontest.github.io/TinyML-Design-Contest/)。依托[IEEE国际元计算大会](http://meta-computing.info/)，联合龙芯中科和浪潮，创办[IEEE元计算嵌入式系统设计大赛](https://iesdcontest.github.io/iesd-2024/)。获[ICCAD大模型硬件设计国际大赛](https://nvlabs.github.io/LLM4HWDesign/results.html)第二名，[ESWEEK智能嵌入式系统设计国际大赛](https://esfair2023.github.io/ESFair/)第二名。
+贾振格，山东大学计算机科学与技术学院教授、博导，山东省泰山学者青年专家，山东大学齐鲁青年学者。主要研究方向为体系结构和嵌入式人工智能，基于以上研究方向，开展面向端侧人工智能的软硬件协同设计，推进国产嵌入式人工智能的生态建设，实现产业级应用落地。目前，研究课题主要集中在三个方面：1）面向端侧人工智能的高效算法和计算框架设计；2）个性化端侧人工智能系统设计；3）面向工业互联网的大模型辅助电子设计自动化。2022至2024年于圣母大学从事博士后研究，导师为[Yiyu Shi](https://www3.nd.edu/~scl/index.html) 教授，2022年于匹兹堡大学获博士学位，导师为[Jingtong Hu](https://sites.pitt.edu/~jthu/index.html) 教授，2017年于澳大利亚国立大学获学士学位，导师为[Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/) 教授。近五年发表学术论文30余篇，其中一作发表Nature Machine Intelligence（影响因子25.8）3篇，CCF-A类论文6篇，通讯发表Nature Electronics（影响因子34.3）1篇。依托ICCAD（CCF-B类会议）创办[IEEE/ACM 微型机器学习系统设计国际大赛](https://tinymlcontest.github.io/TinyML-Design-Contest/)。依托[IEEE国际元计算大会](http://meta-computing.info/)，联合龙芯中科和浪潮，创办[IEEE元计算嵌入式系统设计大赛](https://iesdcontest.github.io/iesd-2024/)。获[ICCAD大模型硬件设计国际大赛](https://nvlabs.github.io/LLM4HWDesign/results.html)第二名，[ESWEEK智能嵌入式系统设计国际大赛](https://esfair2023.github.io/ESFair/)第二名。
 
 [//]: # (His research outcomes:)
 
