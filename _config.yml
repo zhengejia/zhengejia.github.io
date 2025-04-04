@@ -96,7 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://gitee.com/sdu-aes-lab"
+  github           : #"https://gitee.com/sdu-aes-lab"
+  gitee            : "sdu-aes-lab"
   google_plus      :
   keybase          :
   instagram        :
