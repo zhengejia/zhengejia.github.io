@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal 
 1. <b>[Hardware Design and The Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
-Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu,<b> Zhenge Jia*</b>, Yiyu Shi* (corresponding author)<br />
+Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu,<b> Zhenge Jia\* </b>, Yiyu Shi\* (corresponding author)<br />
 <i> Nature Electronics</i>, 2024 (Impact Factor: 34.3). <br />
 2. <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
 <b> Zhenge Jia</b>, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi <br />
