@@ -26,6 +26,7 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* LLM4HWDesign [])
 
 # News
+* 2025/05 &nbsp; &nbsp;    One paper is accepted by IJCAI (CCF-A).
 * 2025/02 &nbsp; &nbsp;    Two papers are accepted by DAC (CCF-A).
 * 2025/01 &nbsp; &nbsp;    One paper is accepted by ISSCC.
 * 2024/07 &nbsp; &nbsp;    One paper is accepted by Nature Electronics (IF: 34.3).

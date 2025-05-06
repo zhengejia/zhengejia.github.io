@@ -36,8 +36,12 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 ### 2025
 
-1. <b>[Enabling On-Tiny-Device Model Personalization via Gradient Condensing and Alternant Partial Update]()</b> <br> 
-<b> Zhenge Jia</b>, Yiyang Shi, Zeyu Bao, Zirui Wang, Xin Pang, Huiguo Liu, Yu Duan, Zhaoyan Shen. Mengying Zhao
+1. <b>[DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis]()</b> <br> 
+<b> Tianren Zhou</b>, Zhenge Jia, Dongxiao Yu, Zhaoyan Shen
+ <br />
+<i> Proc. of the 34th International Joint Conference on Artificial Intelligence (IJCAI) </i>, 2025 (CCF-A). <br />
+2. <b>[Enabling On-Tiny-Device Model Personalization via Gradient Condensing and Alternant Partial Update]()</b> <br> 
+<b> Zhenge Jia</b>, Yiyang Shi, Zeyu Bao, Zirui Wang, Xin Pang, Huiguo Liu, Yu Duan, Zhaoyan Shen, Mengying Zhao
  <br />
 <i> Proc. of the 62nd IEEE/ACM Design Automation Conference (DAC) </i>, 2025 (CCF-A). <br />
 2. <b>[Routability-aware Packing for High-density Nonvolatile FPGAs]()</b> <br> 
