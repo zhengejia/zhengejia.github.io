@@ -37,7 +37,7 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 ### 2025
 
 1. <b>[DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis]()</b> <br> 
-<b> Tianren Zhou</b>, Zhenge Jia, Dongxiao Yu, Zhaoyan Shen
+Tianren Zhou, <b>Zhenge Jia\*</b>, Dongxiao Yu, Zhaoyan Shen
  <br />
 <i> Proc. of the 34th International Joint Conference on Artificial Intelligence (IJCAI) </i>, 2025 (CCF-A). <br />
 2. <b>[Enabling On-Tiny-Device Model Personalization via Gradient Condensing and Alternant Partial Update]()</b> <br> 
