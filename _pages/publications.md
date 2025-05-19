@@ -5,28 +5,31 @@ author_profile: true
 ---
 
 ## Journal 
-1. <b>[Hardware Design and The Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
+1. <b>[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
+Ruiyang Qin, Dancheng Liu, Chenhui Xu, Zheyu Yan, Zhaoxuan Tan, <b>Zhenge Jia</b>, Amir Nassereldine, Jiajie Li, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi<br />
+<i> ACM Transactions on Design Automation of Electronic Systems</i>, 2025 (CCF-B). <br />
+2. <b>[Hardware Design and The Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
 Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu,<b> Zhenge Jia\* </b>, Yiyu Shi\* (corresponding author)<br />
 <i> Nature Electronics</i>, 2024 (Impact Factor: 34.3). <br />
-2. <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
+3. <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
 <b> Zhenge Jia</b>, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024 (CCF-A). <br />
-3. <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
+4. <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023 (CCF-A). <br />
-4. <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
+5. <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
 <b> Zhenge Jia</b>, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
-5. <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
+6. <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
-6. <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
+7. <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
 <b> Zhenge Jia</b>, Xiaowei Xu, Jingtong Hu, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2022 (Impact Factor: 25.9). <br />
-7. <b>[Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach](https://ieeexplore.ieee.org/document/9743335)</b> <br> 
+8. <b>[Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach](https://ieeexplore.ieee.org/document/9743335)</b> <br> 
 <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022 (CCF-A). <br />
-8. <b>[Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning](https://ieeexplore.ieee.org/document/9335978)</b> <br> 
+9. <b>[Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning](https://ieeexplore.ieee.org/document/9335978)</b> <br> 
 Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2021 (CCF-A). <br />
 
@@ -44,18 +47,18 @@ Tianren Zhou, <b>Zhenge Jia\*</b>, Dongxiao Yu, Zhaoyan Shen
 <b> Zhenge Jia</b>, Yiyang Shi, Zeyu Bao, Zirui Wang, Xin Pang, Huiguo Liu, Yu Duan, Zhaoyan Shen, Mengying Zhao
  <br />
 <i> Proc. of the 62nd IEEE/ACM Design Automation Conference (DAC) </i>, 2025 (CCF-A). <br />
-2. <b>[Routability-aware Packing for High-density Nonvolatile FPGAs]()</b> <br> 
+3. <b>[Routability-aware Packing for High-density Nonvolatile FPGAs]()</b> <br> 
 Huichuan Zheng, Yuqing Xiong, Jian Zuo, Hao Zhang, <b> Zhenge Jia</b>, Mengying Zhao
  <br />
 <i> Proc. of the 62nd IEEE/ACM Design Automation Conference (DAC) </i>, 2025 (CCF-A). <br />
-3. <b>[QC-CNN: Highly Quantized Compressive CNN for Efficient Ventricular Arrhythmia Detection in Implantable Cardioverter Defibrillators]()</b> <br> 
+4. <b>[QC-CNN: Highly Quantized Compressive CNN for Efficient Ventricular Arrhythmia Detection in Implantable Cardioverter Defibrillators]()</b> <br> 
 Zining Wang, Jian Gao, Weidong Cao, <b> Zhenge Jia</b>, Yiyu Shi, Xuan Zhang
  <br />
 <i> IEEE International Symposium on Circuits and Systems (ISCAS) </i>, 2025. <br />
-4. <b>[A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference]()</b> <br> 
+5. <b>[A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference]()</b> <br> 
 Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin, <b> Zhenge Jia</b>, X. Sharon Hu, Yiyu Shi, Ningyuan Cao <br />
 <i> Proc. of IEEE International Solid- State Circuits Conference (ISSCC) </i>, 2025 (Top Conference in IC). <br />
-5. <b>[A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection]()</b> <br> 
+6. <b>[A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection]()</b> <br> 
 Yifan Qin, <b> Zhenge Jia</b>, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu, Yiyu Shi <br />
 <i> Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, 2025 (CCF-C). <br />
 
