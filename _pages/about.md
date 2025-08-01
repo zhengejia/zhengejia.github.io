@@ -15,7 +15,7 @@ He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervised b
 He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervised by Prof. [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
 His research interests are in on-device AI and LLM-assisted hardware deisgn.
 
-贾振格，山东大学计算机科学与技术学院教授、博导，山东省泰山学者青年专家，山东大学齐鲁青年学者。主要研究方向为体系结构和嵌入式人工智能，基于以上研究方向，开展面向端侧人工智能的软硬件协同设计，推进国产嵌入式人工智能的生态建设，实现产业级应用落地。目前，研究课题主要集中在三个方面：1）面向端侧人工智能的高效算法和计算框架设计；2）个性化端侧人工智能系统设计；3）面向工业互联网的大模型辅助电子设计自动化。2022至2024年于圣母大学从事博士后研究，导师为[Yiyu Shi](https://www3.nd.edu/~scl/index.html) 教授，2022年于匹兹堡大学获博士学位，导师为[Jingtong Hu](https://sites.pitt.edu/~jthu/index.html) 教授，2017年于澳大利亚国立大学获学士学位，导师为[Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/) 教授。近五年发表学术论文30余篇，其中一作发表Nature Machine Intelligence（影响因子25.8）3篇，CCF-A类论文6篇，通讯发表Nature Electronics（影响因子34.3）1篇。依托ICCAD（CCF-B类会议）创办[IEEE/ACM 微型机器学习系统设计国际大赛](https://tinymlcontest.github.io/TinyML-Design-Contest/)。依托[IEEE国际元计算大会](http://meta-computing.info/)，联合龙芯中科和浪潮，创办[IEEE元计算嵌入式系统设计大赛](https://iesdcontest.github.io/iesd-2024/)。获[ICCAD大模型硬件设计国际大赛](https://nvlabs.github.io/LLM4HWDesign/results.html)第二名，[ESWEEK智能嵌入式系统设计国际大赛](https://esfair2023.github.io/ESFair/)第二名。
+贾振格，山东大学计算机科学与技术学院教授、博导，山东省泰山学者青年专家，山东大学齐鲁青年学者。主要研究方向为体系结构和嵌入式人工智能，基于以上研究方向，开展面向端侧人工智能的软硬件协同设计，推进国产嵌入式人工智能的生态建设，实现产业级应用落地。目前，研究课题主要集中在三个方面：1）面向端侧人工智能的高效算法和计算框架设计；2）个性化端侧人工智能系统设计；3）面向工业互联网的大模型辅助电子设计自动化。2022至2024年于圣母大学从事博士后研究，导师为[Yiyu Shi](https://www3.nd.edu/~scl/index.html) 教授，2022年于匹兹堡大学获博士学位，导师为[Jingtong Hu](https://sites.pitt.edu/~jthu/index.html) 教授，2017年于澳大利亚国立大学获学士学位，导师为[Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/) 教授。近五年发表学术论文30余篇，其中一作/通讯发表Nature Machine Intelligence（影响因子25.8）3篇，CCF-A类论文7篇，Nature Electronics（影响因子34.3）1篇。获[DAC 2025 系统设计国际大赛](https://jqubcomp.github.io/dac-2025-comp/index.html)第二名，获[ICCAD 2024 大模型硬件设计国际大赛](https://nvlabs.github.io/LLM4HWDesign/results.html)第二名，[ESWEEK智能嵌入式系统设计国际大赛](https://esfair2023.github.io/ESFair/)第二名。依托ICCAD（CCF-B类会议）创办[IEEE/ACM 微型机器学习系统设计国际大赛](https://tinymlcontest.github.io/TinyML-Design-Contest/)。依托[IEEE国际元计算大会](http://meta-computing.info/)，联合龙芯中科和浪潮，创办[IEEE元计算嵌入式系统设计大赛](https://iesdcontest.github.io/iesd-2024/)。
 
 [//]: # (His research outcomes:)
 
@@ -26,16 +26,22 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* LLM4HWDesign [])
 
 # News
+* 2025/06 &nbsp; &nbsp;    Second Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25]. 
 * 2025/05 &nbsp; &nbsp;    One paper is accepted by IJCAI (CCF-A).
 * 2025/02 &nbsp; &nbsp;    Two papers are accepted by DAC (CCF-A).
 * 2025/01 &nbsp; &nbsp;    One paper is accepted by ISSCC.
 * 2024/07 &nbsp; &nbsp;    One paper is accepted by Nature Electronics (IF: 34.3).
 * 2024/07 &nbsp; &nbsp;    One paper is accepted by ECAI 2024 (CCF-B).
-* 2024/06 &nbsp; &nbsp;    Two papers are accepted by ICCAD 2024 (CCF-B).
-* 2024/06 &nbsp; &nbsp;    One paper is accepted by MICCAI 2024 (CCF-B).
-* 2024/04 &nbsp; &nbsp;    One paper is accepted by IEEE TCAD (CCF-A).
-* 2024/02 &nbsp; &nbsp;    One paper is accepted by DAC 2024 (CCF-A).
-* 2023/11 &nbsp; &nbsp;    [2nd IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/) has been successfully concluded! Congratulation to all winning teams! Results and code can be accessed [here](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html).
+
+[//]: # (* 2024/06 &nbsp; &nbsp;    Two papers are accepted by ICCAD 2024 &#40;CCF-B&#41;.)
+
+[//]: # (* 2024/06 &nbsp; &nbsp;    One paper is accepted by MICCAI 2024 &#40;CCF-B&#41;.)
+
+[//]: # (* 2024/04 &nbsp; &nbsp;    One paper is accepted by IEEE TCAD &#40;CCF-A&#41;.)
+
+[//]: # (* 2024/02 &nbsp; &nbsp;    One paper is accepted by DAC 2024 &#40;CCF-A&#41;.)
+
+[//]: # (* 2023/11 &nbsp; &nbsp;    [2nd IEEE/ACM TinyML Contest]&#40;https://tinymlcontest.github.io/TinyML-Design-Contest-2023/&#41; has been successfully concluded! Congratulation to all winning teams! Results and code can be accessed [here]&#40;https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html&#41;.)
 
 [//]: # (* 2023/10 &nbsp; &nbsp;    Proposal on Personalized On-Device Federated Learning is funded by [Indiana CTSI]&#40;https://indianactsi.org/&#41;.)
 
@@ -58,6 +64,7 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* 2022/07 &nbsp; &nbsp;    Launch [1st IEEE/ACM TinyML Contest]&#40;https://tinymlcontest.github.io/TinyML-Design-Contest/&#41;.)
 
 # Awards
+* 2nd Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25](https://www.dac.com/Attend/Students-Scholarships/System-Design-Contest), 2025
 * 2nd Place in [ICCAD Contest on LLM-Assisted Hardware Code Generation](https://nvlabs.github.io/LLM4HWDesign/results.html) at [ICCAD](https://2024.iccad.com/), 2024 
 * 2nd Place in [Fair and Intelligent Emebdded System Design Contest](https://esfair2023.github.io/ESFair/) at [ESWEEK](https://esweek.org/tiny-and-fair-ml-design/), 2023 
 * 2nd Place Award in Ph.D. Forum at DAC, 2023 [[Poster](https://drive.google.com/file/d/117iJwE_jHYDHIGQ5v2BSLEYuU1khPRd0/view?usp=sharing)] [[Abstract](https://drive.google.com/file/d/1D79GJMJfS3gwThoH8d4TxPMr2FrZ193D/view?usp=sharing)]
@@ -72,9 +79,9 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 * Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
 **Program Committee Member**
-* International Conference on Computer-Aided Design (ICCAD) 2023, 2024
-* European Conference on Artificial Intelligence (ECAI) 2024
-* Asia and South Pacific Design Automation Conference (ASP-DAC) 2024
+* International Conference on Computer-Aided Design (ICCAD) 2023, 2024, 2025
+* European Conference on Artificial Intelligence (ECAI) 2024, 2025
+* Asia and South Pacific Design Automation Conference (ASP-DAC) 2024, 2025, 2026
 * Asia and South Pacific Design Automation Conference (ASP-DAC) Student Research Forum 2023
 
 **Selected Journal Review**
