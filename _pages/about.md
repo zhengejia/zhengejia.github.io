@@ -26,7 +26,7 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* LLM4HWDesign [])
 
 # News
-* 2025/06 &nbsp; &nbsp;    Second Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25]. 
+* 2025/06 &nbsp; &nbsp;    Second Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25](https://www.dac.com/Attend/Students-Scholarships/System-Design-Contest). 
 * 2025/05 &nbsp; &nbsp;    One paper is accepted by IJCAI (CCF-A).
 * 2025/02 &nbsp; &nbsp;    Two papers are accepted by DAC (CCF-A).
 * 2025/01 &nbsp; &nbsp;    One paper is accepted by ISSCC.
@@ -70,7 +70,8 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 * 2nd Place Award in Ph.D. Forum at DAC, 2023 [[Poster](https://drive.google.com/file/d/117iJwE_jHYDHIGQ5v2BSLEYuU1khPRd0/view?usp=sharing)] [[Abstract](https://drive.google.com/file/d/1D79GJMJfS3gwThoH8d4TxPMr2FrZ193D/view?usp=sharing)]
 * IJCAI Student Grant, 2021
 * Young student fellow award, Design Automation Conference(DAC), 2021, USA 
-* Young student fellow award, Design Automation Conference(DAC), 2020, USA
+
+[//]: # (* Young student fellow award, Design Automation Conference&#40;DAC&#41;, 2020, USA)
 
 # Professional Service 
 **Contest Organizing** 
