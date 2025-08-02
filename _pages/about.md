@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Zhenge Jia is currently a “Qilu Young Scholar” (齐鲁青年学者) Professor at School of Computer Science and Technology, Shandong University.
-He was also selected as a Young Expert of Taishan Scholars (泰山学者青年专家) of Shandong Province. 
+Zhenge Jia is currently a “Qilu Young Scholar” Professor at School of Computer Science and Technology, Shandong University.
+He was also selected as a Young Expert of Taishan Scholars of Shandong Province. 
 Before joining SDU, he was a Postdoctoral Research Associate at University of Notre Dame from 2022 - 2024 (supervised by Prof. [Yiyu Shi](https://www3.nd.edu/~scl/index.html)). 
 He obtained his Ph.D. degree from University of Pittsburgh in 2022 (supervised by Prof. [Jingtong Hu](https://sites.pitt.edu/~jthu/index.html)). 
 He obtained his B.S. degree (Honors) in Advanced Computing from Australian National University in 2017 (supervised by Prof. [Weifa Liang](https://www.cs.cityu.edu.hk/~weliang/)). 
