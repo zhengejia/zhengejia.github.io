@@ -26,6 +26,8 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* LLM4HWDesign [])
 
 # News
+* 2025/08 &nbsp; &nbsp;    Invited talk at AIoTSys'25. 
+* 2025/07 &nbsp; &nbsp;    The joint laboratory wth Longson for LoongArch development is founded. 
 * 2025/06 &nbsp; &nbsp;    Second Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25](https://www.dac.com/Attend/Students-Scholarships/System-Design-Contest). 
 * 2025/05 &nbsp; &nbsp;    One paper is accepted by IJCAI (CCF-A).
 * 2025/02 &nbsp; &nbsp;    Two papers are accepted by DAC (CCF-A).

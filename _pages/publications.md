@@ -5,31 +5,34 @@ author_profile: true
 ---
 
 ## Journal 
-1. <b>[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
+1. <b>[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices]()</b> <br> 
 Ruiyang Qin, Dancheng Liu, Chenhui Xu, Zheyu Yan, Zhaoxuan Tan, <b>Zhenge Jia</b>, Amir Nassereldine, Jiajie Li, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi<br />
 <i> ACM Transactions on Design Automation of Electronic Systems</i>, 2025 (CCF-B). <br />
-2. <b>[Hardware Design and The Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
+2. <b>[Reconfigurable Ferroelectric Bandpass Filter With Low-Frequency Noise Analysis for Intracardiac Electrogram Monitoring]()</b> <br> 
+Jianwei Jia, Zhenge Jia, Omkar Phadke, Yiyu Shi, Shimeng Yu<br />
+<i> IEEE Journal on Exploratory Solid-State Computational Devices and Circuits </i>, 2025. <br />
+3. <b>[Hardware Design and The Fairness of A Neural Network](https://www.nature.com/articles/s41928-024-01213-0)</b> <br> 
 Yuanbo Guo, Zheyu Yan, Xiaoting Yu, Qingpeng Kong, Joy Xie, Kevin Luo, Dewen Zeng, Yawen Wu,<b> Zhenge Jia\* </b>, Yiyu Shi\* (corresponding author)<br />
 <i> Nature Electronics</i>, 2024 (Impact Factor: 34.3). <br />
-3. <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
+4. <b>[Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring](https://ieeexplore.ieee.org/document/10499975)</b> <br> 
 <b> Zhenge Jia</b>, Tianren Zhou, Zheyu Yan, Jingtong Hu, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2024 (CCF-A). <br />
-4. <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
+5. <b>[TinyML Design Contest for Life-Threatening Ventricular Arrhythmia Detection](https://arxiv.org/abs/2305.05105)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Cong Liu, Liqi Liao, Xiaowei Xu, Lichuan Ping, Yiyu Shi <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2023 (CCF-A). <br />
-5. <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
+6. <b>[The Importance of Resource Awareness in Artificial Intelligence for Healthcare](https://www.nature.com/articles/s42256-023-00670-0)</b> <br> 
 <b> Zhenge Jia</b>, Jianxu Chen, Xiaowei Xu, John Kheir, Jingtong Hu, Han Xiao, Sui Peng, Sharon Hu, Danny Chen, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
-6. <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
+7. <b>[Life-Threatening Ventricular Arrhythmia Detection Challenge in Implantable Cardioverter Defibrillators](https://www.nature.com/articles/s42256-023-00659-9)</b> <br> 
 <b> Zhenge Jia</b>, Dawei Li, Xiaowei Xu, Na Li, Feng Hong, Lichuan Ping, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2023 (Impact Factor: 25.9). <br />
-7. <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
+8. <b>[Low-Power Object-Detection Challenge on Unmanned Aerial Vehicles](https://www.nature.com/articles/s42256-022-00567-4)</b> <br> 
 <b> Zhenge Jia</b>, Xiaowei Xu, Jingtong Hu, Yiyu Shi <br />
 <i>Nature Machine Intelligence (NMI)</i>, 2022 (Impact Factor: 25.9). <br />
-8. <b>[Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach](https://ieeexplore.ieee.org/document/9743335)</b> <br> 
+9. <b>[Personalized Neural Network for Patient-Specific Health Monitoring in IoT: A Meta-Learning Approach](https://ieeexplore.ieee.org/document/9743335)</b> <br> 
 <b> Zhenge Jia</b>, Yiyu Shi, Jingtong Hu <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2022 (CCF-A). <br />
-9. <b>[Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning](https://ieeexplore.ieee.org/document/9335978)</b> <br> 
+10. <b>[Cooperative Communication Between Two Transiently Powered Sensor Nodes by Reinforcement Learning](https://ieeexplore.ieee.org/document/9335978)</b> <br> 
 Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 2021 (CCF-A). <br />
 
@@ -67,10 +70,12 @@ Yifan Qin, <b> Zhenge Jia</b>, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao L
 1. <b>[Federation-Paced Learning: Towards Efficient Federated Learning with Synchronized Pace]()</b> <br> 
 Tingting Zhang, Mei Cao,<b> Zhenge Jia</b>, Jianbo Lu, Zhaoyan Shen, Dongxiao Yu, Mengying Zhao <br />
 <i>Proc. of 27th European Conference on Artificial Intelligence (ECAI)</i>, 2024 (CCF-B). <br />
-2. <b>[Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks]()</b> <br> 
+2. <b>[Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks]()</b> <br>
+<font color=#FF00 size=1> **Nominated for Best Paper Award** </font><br>
 Likai Pei, Yifan Qin, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis,<b> Zhenge Jia</b>, Michael Niemier, Yiyu Shi, X. Sharon Hu, Ningyuan Cao <br />
 <i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024 (CCF-B). <br />
 3. <b>[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures]()</b> <br> 
+<font color=#FF00 size=1> **Nominated for Best Paper Award** </font><br>
 Ruiyang Qin, Zheyu Yan, Dewen Zeng,<b> Zhenge Jia</b>, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi <br />
 <i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024 (CCF-B). <br />
 4. <b>[FairQuantize: Achieving Fairness Through Weight Quantization for Dermatological Disease Diagnosis]()</b> <br> 
