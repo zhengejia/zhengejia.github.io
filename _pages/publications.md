@@ -42,26 +42,30 @@ Yawen Wu, <b> Zhenge Jia</b>, Fei Fang, Jingtong Hu <br />
 
 ### 2025
 
-1. <b>[DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis]()</b> <br> 
+1. <b>[Fair Dermatological Disease Diagnosis Through Auto-weighted Federated Learning and Performance-Aware Personalization]()</b> <br> 
+Gelei Xu, Yawen Wu, <b>Zhenge Jia</b>, Jingtong Hu, Yiyu Shi
+ <br />
+<i> Proc. of Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop on Fairness of AI in Medical Imaging</i>, 2025 (CCF-B). <br />
+2. <b>[DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis]()</b> <br> 
 Tianren Zhou, <b>Zhenge Jia\*</b>, Dongxiao Yu, Zhaoyan Shen
  <br />
 <i> Proc. of the 34th International Joint Conference on Artificial Intelligence (IJCAI) </i>, 2025 (CCF-A). <br />
-2. <b>[Enabling On-Tiny-Device Model Personalization via Gradient Condensing and Alternant Partial Update]()</b> <br> 
+3. <b>[Enabling On-Tiny-Device Model Personalization via Gradient Condensing and Alternant Partial Update]()</b> <br> 
 <b> Zhenge Jia</b>, Yiyang Shi, Zeyu Bao, Zirui Wang, Xin Pang, Huiguo Liu, Yu Duan, Zhaoyan Shen, Mengying Zhao
  <br />
 <i> Proc. of the 62nd IEEE/ACM Design Automation Conference (DAC) </i>, 2025 (CCF-A). <br />
-3. <b>[Routability-aware Packing for High-density Nonvolatile FPGAs]()</b> <br> 
+4. <b>[Routability-aware Packing for High-density Nonvolatile FPGAs]()</b> <br> 
 Huichuan Zheng, Yuqing Xiong, Jian Zuo, Hao Zhang, <b> Zhenge Jia</b>, Mengying Zhao
  <br />
 <i> Proc. of the 62nd IEEE/ACM Design Automation Conference (DAC) </i>, 2025 (CCF-A). <br />
-4. <b>[QC-CNN: Highly Quantized Compressive CNN for Efficient Ventricular Arrhythmia Detection in Implantable Cardioverter Defibrillators]()</b> <br> 
+5. <b>[QC-CNN: Highly Quantized Compressive CNN for Efficient Ventricular Arrhythmia Detection in Implantable Cardioverter Defibrillators]()</b> <br> 
 Zining Wang, Jian Gao, Weidong Cao, <b> Zhenge Jia</b>, Yiyu Shi, Xuan Zhang
  <br />
 <i> IEEE International Symposium on Circuits and Systems (ISCAS) </i>, 2025. <br />
-5. <b>[A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference]()</b> <br> 
+6. <b>[A 65nm Uncertainty-quantifiable Ventricular Arrhythmia Detection Engine with 1.75μJ per Inference]()</b> <br> 
 Jianbo Liu, Zephan Enciso, Boyang Cheng, Likai Pei, Steven Davis, Yifan Qin, <b> Zhenge Jia</b>, X. Sharon Hu, Yiyu Shi, Ningyuan Cao <br />
 <i> Proc. of IEEE International Solid- State Circuits Conference (ISSCC) </i>, 2025 (Top Conference in IC). <br />
-6. <b>[A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection]()</b> <br> 
+7. <b>[A 10.60 uW 150 GOPS Mixed-Bit-Width Sparse CNN Accelerator for Life-Threatening Ventricular Arrhythmia Detection]()</b> <br> 
 Yifan Qin, <b> Zhenge Jia</b>, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao Liu, Wujie Wen, Luhong Liang, Kwang-Ting Tim Cheng, X. Sharon Hu, Yiyu Shi <br />
 <i> Proc. of the Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, 2025 (CCF-C). <br />
 
@@ -71,11 +75,11 @@ Yifan Qin, <b> Zhenge Jia</b>, Zheyu Yan, Jay Mok, Manto Yung, Yu Liu, Xuejiao L
 Tingting Zhang, Mei Cao,<b> Zhenge Jia</b>, Jianbo Lu, Zhaoyan Shen, Dongxiao Yu, Mengying Zhao <br />
 <i>Proc. of 27th European Conference on Artificial Intelligence (ECAI)</i>, 2024 (CCF-B). <br />
 2. <b>[Towards Uncertainty-Quantifiable Biomedical Intelligence: Mixed-signal Compute-in-Entropy for Bayesian Neural Networks]()</b> <br>
-<font color=#FF00 size=1> **Nominated for Best Paper Award** </font><br>
+<span style="color:red"> **Nominated for Best Paper Award** </span><br>
 Likai Pei, Yifan Qin, Zephan M. Enciso, Boyang Cheng, Jianbo Liu, Steven Davis,<b> Zhenge Jia</b>, Michael Niemier, Yiyu Shi, X. Sharon Hu, Ningyuan Cao <br />
 <i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024 (CCF-B). <br />
 3. <b>[Robust Implementation of Retrieval-Augmented Generation on Edge-based Computing-in-Memory Architectures]()</b> <br> 
-<font color=#FF00 size=1> **Nominated for Best Paper Award** </font><br>
+<span style="color:red"> **Nominated for Best Paper Award** </span><br>
 Ruiyang Qin, Zheyu Yan, Dewen Zeng,<b> Zhenge Jia</b>, Dancheng Liu, Jianbo Liu, Zhi Zheng, Ningyuan Cao, Kai Ni, Jinjun Xiong, Yiyu Shi <br />
 <i>Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, 2024 (CCF-B). <br />
 4. <b>[FairQuantize: Achieving Fairness Through Weight Quantization for Dermatological Disease Diagnosis]()</b> <br> 
