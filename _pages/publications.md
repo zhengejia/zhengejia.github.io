@@ -6,6 +6,7 @@ author_profile: true
 
 ## Journal 
 1. <b>[Empirical Guidelines for Deploying LLMs onto Resource-constrained Edge Devices]()</b> <br> 
+<span style="color:red"> **TODAES Paper Highlight** </span><br>
 Ruiyang Qin, Dancheng Liu, Chenhui Xu, Zheyu Yan, Zhaoxuan Tan, <b>Zhenge Jia</b>, Amir Nassereldine, Jiajie Li, Meng Jiang, Ahmed Abbasi, Jinjun Xiong, Yiyu Shi<br />
 <i> ACM Transactions on Design Automation of Electronic Systems</i>, 2025 (CCF-B). <br />
 2. <b>[Reconfigurable Ferroelectric Bandpass Filter With Low-Frequency Noise Analysis for Intracardiac Electrogram Monitoring]()</b> <br> 
