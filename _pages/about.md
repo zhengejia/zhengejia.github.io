@@ -28,6 +28,8 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* LLM4HWDesign [])
 
 # News
+* 2025/12 &nbsp; &nbsp;    Our paper is selected as ACM TODAES Paper Highlight. 
+* 2025/11 &nbsp; &nbsp;    Invited talk by Shandong Society of Biomedical Engineering.  
 * 2025/08 &nbsp; &nbsp;    Invited talk at AIoTSys'25. 
 * 2025/07 &nbsp; &nbsp;    The joint laboratory wth Longson for LoongArch development is founded. 
 * 2025/06 &nbsp; &nbsp;    Second Place in [System Design Contest](https://jqubcomp.github.io/dac-2025-comp/index.html) at [DAC'25](https://www.dac.com/Attend/Students-Scholarships/System-Design-Contest). 
@@ -78,10 +80,9 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 [//]: # (* Young student fellow award, Design Automation Conference&#40;DAC&#41;, 2020, USA)
 
 # Professional Service 
-**Contest Organizing** 
-* Chair of [1st Intelligent Embedded System Design Contest ](https://iesdcontest.github.io/iesd-2024/) focusing on on-device learning design for Atrial Fibrillation detection. 
-* Co-Chair of [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
-* Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
+
+**Editorial Board**
+* High-Confidence Computing (HCC), Young Editorial Board Members
 
 **Program Committee Member**
 * Design Automation Conference (DAC) 2026
@@ -89,6 +90,11 @@ His research interests are in on-device AI and LLM-assisted hardware deisgn.
 * European Conference on Artificial Intelligence (ECAI) 2024, 2025
 * Asia and South Pacific Design Automation Conference (ASP-DAC) 2024, 2025, 2026
 * Asia and South Pacific Design Automation Conference (ASP-DAC) Student Research Forum 2026
+
+**Contest Organizing** 
+* Chair of [1st Intelligent Embedded System Design Contest ](https://iesdcontest.github.io/iesd-2024/) focusing on on-device learning design for Atrial Fibrillation detection. 
+* Co-Chair of [2st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/index.html). 
+* Chair of [1st IEEE/ACM TinyML Contest](https://tinymlcontest.github.io/TinyML-Design-Contest/) focusing on TinyML design for life-threatening ventricular arrhythmia detection. 
 
 **Selected Journal Review**
 * IEEE Transactions on Computers (TC)
